@@ -1,0 +1,6 @@
+,edad,telefono
+juan,19,1234
+pedro,23,34534
+diego,26,12312
+pablo,32,1234
+jose,45,2234
